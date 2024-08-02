@@ -16,6 +16,7 @@
 		5BBF172C2C5CE60B00ECFAF2 /* TestCopilotForXcodeGPT4oTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BBF172B2C5CE60B00ECFAF2 /* TestCopilotForXcodeGPT4oTests.swift */; };
 		5BBF17362C5CE60B00ECFAF2 /* TestCopilotForXcodeGPT4oUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BBF17352C5CE60B00ECFAF2 /* TestCopilotForXcodeGPT4oUITests.swift */; };
 		5BBF17382C5CE60B00ECFAF2 /* TestCopilotForXcodeGPT4oUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BBF17372C5CE60B00ECFAF2 /* TestCopilotForXcodeGPT4oUITestsLaunchTests.swift */; };
+		5BFC3AA82C5CEC4600DFCA19 /* TweetTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BFC3AA72C5CEC4500DFCA19 /* TweetTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5BBF17312C5CE60B00ECFAF2 /* TestCopilotForXcodeGPT4oUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestCopilotForXcodeGPT4oUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BBF17352C5CE60B00ECFAF2 /* TestCopilotForXcodeGPT4oUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCopilotForXcodeGPT4oUITests.swift; sourceTree = "<group>"; };
 		5BBF17372C5CE60B00ECFAF2 /* TestCopilotForXcodeGPT4oUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCopilotForXcodeGPT4oUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5BFC3AA72C5CEC4500DFCA19 /* TweetTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				5BBF171D2C5CE60B00ECFAF2 /* Assets.xcassets */,
 				5BBF171F2C5CE60B00ECFAF2 /* LaunchScreen.storyboard */,
 				5BBF17222C5CE60B00ECFAF2 /* Info.plist */,
+				5BFC3AA72C5CEC4500DFCA19 /* TweetTableViewCell.swift */,
 			);
 			path = TestCopilotForXcodeGPT4o;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				5BBF17192C5CE60900ECFAF2 /* ViewController.swift in Sources */,
 				5BBF17152C5CE60900ECFAF2 /* AppDelegate.swift in Sources */,
 				5BBF17172C5CE60900ECFAF2 /* SceneDelegate.swift in Sources */,
+				5BFC3AA82C5CEC4600DFCA19 /* TweetTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
